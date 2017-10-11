@@ -1,0 +1,65 @@
+
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 25px;
+font-family: 'Indie Flower', cursive;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+  color: #FF715B;
+  font-weight: bolder;
+  font-size: 50px;
+}
+h2 {
+  font-family: 'Indie Flower', cursive;
+  color: #FF715B;
+  font-weight: lighter;
+  font-size: 35px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: FF715B;
+}
+#banner{
+  text-align: center;
+  background-image: url("images/pexels-photo-310823.jpeg");
+  background-size: cover;
+  padding: 150px;
+  color: lightgrey;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+ }
+
+  #footer a {
+  color: lightgrey;
+  font-size: 30px;
+}
+#footer a:hover {
+  color: white;
+}
+
+}
+.card{
+	text-align: center;
+  padding: 50px;
+  text-align: center;
+  font-weight: lighter;
+}
