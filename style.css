@@ -9,12 +9,15 @@ h1{
   font-family: 'Indie Flower', cursive;
   color: #FF715B;
   font-weight: bolder;
-  font-size: 50px;}
+  font-size: 50px;
+;}
+
 h2 {
   font-family: 'Indie Flower', cursive;
   color: #FF715B;
   font-weight: lighter;
-  font-size: 35px;}
+  font-size: 35px;
+}
  p {
  	color: lightgrey;}
 
@@ -23,9 +26,10 @@ a {
 a:hover {
   text-decoration: none;
   color: FF715B;}
+
 #banner{
   text-align: center;
-  background-image: url("images/dsc_0802.jpg");
+  background-image: url("images/koster.jpg");
   background-size: cover;
   padding: 50px;
   color: lightgrey;
@@ -47,6 +51,12 @@ text-shadow: 5px 5px 10px #777 }
   font-size: 30px;}
 #footer a:hover {
   color: white;}
+
+
+
+style="transform: rotate(180deg);"
+  }
+
 
 .card{
   padding: 50px;
