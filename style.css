@@ -1,65 +1,57 @@
 
 body{
   text-align: center;	
-  background: rgb(245,245,245);
+  background: rgb(50,50,50);
   color: black;
   font-size: 25px;
-font-family: 'Indie Flower', cursive;
-}
+font-family: 'Indie Flower', cursive;}
 h1{
   font-family: 'Indie Flower', cursive;
   color: #FF715B;
   font-weight: bolder;
-  font-size: 50px;
-}
+  font-size: 50px;}
 h2 {
   font-family: 'Indie Flower', cursive;
   color: #FF715B;
   font-weight: lighter;
-  font-size: 35px;
-}
+  font-size: 35px;}
+ p {
+ 	color: lightgrey;}
+
 a {
-  color: blue;
-}
+  color: blue;}
 a:hover {
   text-decoration: none;
-  color: FF715B;
-}
+  color: FF715B;}
 #banner{
   text-align: center;
-  background-image: url("images/pexels-photo-310823.jpeg");
+  background-image: url("images/dsc_0802.jpg");
   background-size: cover;
-  padding: 150px;
+  padding: 50px;
   color: lightgrey;
-  text-shadow: 1px 1px 5px black;
-}
+text-shadow: 5px 5px 10px #777 }
 #banner h1 {
   color: white;
-  font-size: 50px;
-}
+  font-size: 50px;}
 #banner p {
   color: white;
   opacity: 0.8;
   font-size: 30px;
-  font-weight: lighter;
-}
+  font-weight: lighter;}
 #footer{
   padding: 30px;
   background: rgb(30, 30, 30);
-  color: lightgrey;
- }
-
+  color: lightgrey;}
   #footer a {
   color: lightgrey;
-  font-size: 30px;
-}
+  font-size: 30px;}
 #footer a:hover {
-  color: white;
-}
+  color: white;}
 
-}
 .card{
   padding: 50px;
   text-align: center;
   font-weight: lighter;
-}
+  border-radius: 50%
+
+banner}
